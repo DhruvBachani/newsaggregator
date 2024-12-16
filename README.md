@@ -37,3 +37,7 @@ The News Aggregator is a project designed to collect news articles from various 
 ## Configuration
 
 - API key for Guardian API can be configured in the `application.properties` file.
+
+## Testing
+
+- Unit tests are added for ArtilceService and GuardianArticleProvider classes.
